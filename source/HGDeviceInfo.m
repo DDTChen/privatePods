@@ -2,7 +2,7 @@
 //  DeviceInfo.m
 //  hongu.347
 //
-//  Created by DDT on 12/9/3.
+//  Created by DDT on 15/1/7.
 //  Copyright (c) 2012年 SUNNET. All rights reserved.
 //
 
